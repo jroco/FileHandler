@@ -1,0 +1,3 @@
+La suma de los 3 primeros
+numeros de file1in.txt es: 6
+
