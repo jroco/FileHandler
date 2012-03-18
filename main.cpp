@@ -32,6 +32,8 @@ int main(int argc, char** argv) {
     file1in.close();
     file1out.close();
     
+    cout << "End of program." << endl;
+    
     return 0;
 }
 
